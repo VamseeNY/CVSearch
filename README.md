@@ -7,8 +7,6 @@ A complete end-end pipeline for detecting, tracking and searching people across 
 - Interactive and batch search options
 - Comprehensive visualization and export options
 
-<img width="1598" height="2992" alt="search_man_with_a_yellow_shirt" src="https://github.com/user-attachments/assets/cb41a236-e97e-4cf4-8770-d7c4b479bcd1" />
-
 ## Table of Contents
 - [Installation](#installation)
 - [Quick Start](#quick-start)
@@ -17,6 +15,9 @@ A complete end-end pipeline for detecting, tracking and searching people across 
 - [Phase 2: Search](#phase-2-search)
 - [Configuration](#configuration)
 - [Technical details](#technical-details)
+
+<img width="1598" height="2992" alt="search_man_with_a_yellow_shirt" src="https://github.com/user-attachments/assets/cb41a236-e97e-4cf4-8770-d7c4b479bcd1" />
+
 ## Installation
 ### Prerequisites
 - Python 3.8+
