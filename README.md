@@ -8,7 +8,8 @@ A complete end-end pipeline for detecting, tracking and searching people across 
 - Comprehensive visualization and export options
 
 <img width="907" height="297" alt="image" src="https://github.com/user-attachments/assets/94fef7a4-cdb6-4774-a191-9fd15888e59d" />
-<img width="797" height="756" alt="image" src="https://github.com/user-attachments/assets/85d3c37f-da75-4131-a2fe-79c631de888e" />
+<img width="747" height="546" alt="image" src="https://github.com/user-attachments/assets/8ea23722-85e2-4332-bdf6-5683655b8bf5" />
+
 
 
 ## Table of Contents
