@@ -7,6 +7,10 @@ A complete end-end pipeline for detecting, tracking and searching people across 
 - Interactive and batch search options
 - Comprehensive visualization and export options
 
+<img width="907" height="297" alt="image" src="https://github.com/user-attachments/assets/94fef7a4-cdb6-4774-a191-9fd15888e59d" />
+<img width="797" height="756" alt="image" src="https://github.com/user-attachments/assets/85d3c37f-da75-4131-a2fe-79c631de888e" />
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Quick Start](#quick-start)
