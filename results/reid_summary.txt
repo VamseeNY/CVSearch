@@ -1,0 +1,72 @@
+======================================================================
+MULTI-CAMERA PERSON TRACKING & RE-IDENTIFICATION SUMMARY
+======================================================================
+
+Generated: 2025-10-12 04:38:42
+
+OVERALL STATISTICS:
+----------------------------------------------------------------------
+Number of cameras: 2
+Total local tracks: 11
+Unique global persons: 11
+Persons in multiple cameras: 0
+
+======================================================================
+GLOBAL PERSON DETAILS
+======================================================================
+
+Global ID 0:
+  Total detections: 61
+  Appears in 1 camera(s):
+    • Camera 1, Local Track 8: 61 detections (frames 52-112)
+
+Global ID 1:
+  Total detections: 131
+  Appears in 1 camera(s):
+    • Camera 1, Local Track 5: 131 detections (frames 15-145)
+
+Global ID 2:
+  Total detections: 129
+  Appears in 1 camera(s):
+    • Camera 1, Local Track 6: 129 detections (frames 17-145)
+
+Global ID 3:
+  Total detections: 1
+  Appears in 1 camera(s):
+    • Camera 0, Local Track 9: 1 detections (frames 102-102)
+
+Global ID 4:
+  Total detections: 143
+  Appears in 1 camera(s):
+    • Camera 1, Local Track 3: 143 detections (frames 3-145)
+
+Global ID 5:
+  Total detections: 111
+  Appears in 1 camera(s):
+    • Camera 1, Local Track 2: 111 detections (frames 2-112)
+
+Global ID 6:
+  Total detections: 69
+  Appears in 1 camera(s):
+    • Camera 1, Local Track 1: 69 detections (frames 2-70)
+
+Global ID 7:
+  Total detections: 84
+  Appears in 1 camera(s):
+    • Camera 0, Local Track 3: 84 detections (frames 19-102)
+
+Global ID 8:
+  Total detections: 66
+  Appears in 1 camera(s):
+    • Camera 0, Local Track 6: 66 detections (frames 37-102)
+
+Global ID 9:
+  Total detections: 81
+  Appears in 1 camera(s):
+    • Camera 0, Local Track 4: 81 detections (frames 22-102)
+
+Global ID 10:
+  Total detections: 90
+  Appears in 1 camera(s):
+    • Camera 0, Local Track 2: 90 detections (frames 6-95)
+

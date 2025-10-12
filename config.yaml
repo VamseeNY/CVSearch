@@ -1,0 +1,21 @@
+# Minimal config.yaml
+output_dir: "./results"
+
+cameras:
+  - id: 0
+    video: "trimmed_cctv.mp4"
+  
+  - id: 1
+    video: "trimmed_cctv_2.mp4"
+
+tracking:
+  confidence_threshold: 0.75
+  max_age: 50
+  n_init: 3
+  max_cosine_distance: 0.3
+  nn_budget: 100
+
+reid:
+  similarity_threshold: 0.6
+  temporal_tolerance: 300
+  use_temporal: true

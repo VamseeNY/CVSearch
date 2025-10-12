@@ -1,0 +1,4854 @@
+{
+  "10": [
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000006.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000007.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000008.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000009.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000010.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000011.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000012.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000013.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000014.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000015.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000016.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000017.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000018.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000019.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000020.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000021.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000022.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000023.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000024.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000025.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000026.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000027.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000028.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000029.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000030.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000031.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000032.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000033.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000034.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000035.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000036.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000037.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000038.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000039.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000040.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000041.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000042.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000043.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000044.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000045.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000046.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000047.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000048.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000049.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000050.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000051.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000052.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000053.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000054.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000055.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000056.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000057.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000058.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000059.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000060.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000061.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000062.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000063.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000064.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000065.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000066.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000067.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000068.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000069.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000070.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000071.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000072.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000073.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000074.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000075.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000076.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000077.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000078.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000079.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000080.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000081.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000082.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000083.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000084.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000085.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000086.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000087.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000088.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000089.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000090.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000091.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000092.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000093.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000094.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_0/crops/track_2/frame_000095.jpg",
+      "camera_id": 0,
+      "local_track_id": "2"
+    }
+  ],
+  "7": [
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000019.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000020.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000021.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000022.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000023.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000024.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000025.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000026.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000027.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000028.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000029.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000030.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000031.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000032.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000033.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000034.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000035.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000036.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000037.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000038.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000039.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000040.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000041.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000042.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000043.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000044.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000045.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000046.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000047.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000048.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000049.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000050.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000051.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000052.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000053.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000054.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000055.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000056.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000057.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000058.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000059.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000060.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000061.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000062.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000063.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000064.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000065.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000066.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000067.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000068.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000069.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000070.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000071.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000072.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000073.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000074.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000075.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000076.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000077.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000078.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000079.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000080.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000081.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000082.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000083.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000084.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000085.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000086.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000087.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000088.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000089.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000090.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000091.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000092.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000093.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000094.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000095.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000096.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000097.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000098.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000099.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000100.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000101.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_0/crops/track_3/frame_000102.jpg",
+      "camera_id": 0,
+      "local_track_id": "3"
+    }
+  ],
+  "9": [
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000022.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000023.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000024.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000025.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000026.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000027.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000028.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000029.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000030.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000031.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000032.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000033.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000034.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000035.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000036.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000037.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000038.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000039.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000040.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000041.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000042.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000043.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000044.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000045.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000046.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000047.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000048.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000049.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000050.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000051.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000052.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000053.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000054.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000055.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000056.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000057.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000058.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000059.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000060.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000061.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000062.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000063.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000064.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000065.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000066.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000067.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000068.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000069.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000070.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000071.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000072.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000073.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000074.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000075.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000076.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000077.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000078.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000079.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000080.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000081.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000082.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000083.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000084.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000085.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000086.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000087.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000088.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000089.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000090.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000091.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000092.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000093.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000094.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000095.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000096.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000097.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000098.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000099.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000100.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000101.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    },
+    {
+      "path": "./results/camera_0/crops/track_4/frame_000102.jpg",
+      "camera_id": 0,
+      "local_track_id": "4"
+    }
+  ],
+  "8": [
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000037.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000038.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000039.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000040.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000041.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000042.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000043.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000044.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000045.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000046.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000047.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000048.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000049.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000050.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000051.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000052.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000053.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000054.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000055.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000056.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000057.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000058.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000059.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000060.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000061.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000062.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000063.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000064.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000065.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000066.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000067.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000068.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000069.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000070.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000071.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000072.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000073.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000074.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000075.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000076.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000077.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000078.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000079.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000080.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000081.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000082.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000083.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000084.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000085.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000086.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000087.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000088.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000089.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000090.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000091.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000092.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000093.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000094.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000095.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000096.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000097.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000098.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000099.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000100.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000101.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_0/crops/track_6/frame_000102.jpg",
+      "camera_id": 0,
+      "local_track_id": "6"
+    }
+  ],
+  "3": [
+    {
+      "path": "./results/camera_0/crops/track_9/frame_000102.jpg",
+      "camera_id": 0,
+      "local_track_id": "9"
+    }
+  ],
+  "6": [
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000002.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000003.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000004.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000005.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000006.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000007.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000008.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000009.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000010.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000011.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000012.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000013.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000014.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000015.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000016.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000017.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000018.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000019.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000020.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000021.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000022.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000023.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000024.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000025.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000026.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000027.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000028.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000029.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000030.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000031.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000032.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000033.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000034.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000035.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000036.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000037.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000038.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000039.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000040.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000041.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000042.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000043.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000044.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000045.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000046.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000047.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000048.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000049.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000050.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000051.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000052.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000053.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000054.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000055.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000056.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000057.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000058.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000059.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000060.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000061.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000062.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000063.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000064.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000065.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000066.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000067.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000068.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000069.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    },
+    {
+      "path": "./results/camera_1/crops/track_1/frame_000070.jpg",
+      "camera_id": 1,
+      "local_track_id": "1"
+    }
+  ],
+  "5": [
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000002.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000003.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000004.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000005.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000006.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000007.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000008.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000009.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000010.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000011.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000012.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000013.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000014.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000015.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000016.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000017.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000018.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000019.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000020.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000021.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000022.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000023.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000024.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000025.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000026.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000027.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000028.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000029.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000030.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000031.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000032.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000033.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000034.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000035.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000036.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000037.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000038.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000039.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000040.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000041.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000042.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000043.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000044.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000045.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000046.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000047.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000048.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000049.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000050.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000051.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000052.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000053.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000054.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000055.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000056.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000057.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000058.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000059.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000060.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000061.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000062.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000063.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000064.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000065.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000066.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000067.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000068.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000069.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000070.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000071.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000072.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000073.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000074.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000075.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000076.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000077.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000078.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000079.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000080.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000081.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000082.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000083.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000084.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000085.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000086.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000087.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000088.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000089.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000090.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000091.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000092.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000093.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000094.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000095.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000096.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000097.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000098.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000099.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000100.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000101.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000102.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000103.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000104.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000105.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000106.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000107.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000108.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000109.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000110.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000111.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    },
+    {
+      "path": "./results/camera_1/crops/track_2/frame_000112.jpg",
+      "camera_id": 1,
+      "local_track_id": "2"
+    }
+  ],
+  "4": [
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000003.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000004.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000005.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000006.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000007.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000008.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000009.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000010.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000011.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000012.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000013.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000014.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000015.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000016.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000017.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000018.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000019.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000020.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000021.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000022.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000023.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000024.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000025.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000026.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000027.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000028.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000029.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000030.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000031.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000032.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000033.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000034.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000035.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000036.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000037.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000038.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000039.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000040.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000041.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000042.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000043.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000044.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000045.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000046.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000047.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000048.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000049.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000050.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000051.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000052.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000053.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000054.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000055.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000056.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000057.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000058.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000059.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000060.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000061.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000062.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000063.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000064.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000065.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000066.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000067.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000068.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000069.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000070.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000071.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000072.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000073.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000074.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000075.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000076.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000077.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000078.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000079.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000080.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000081.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000082.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000083.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000084.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000085.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000086.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000087.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000088.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000089.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000090.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000091.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000092.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000093.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000094.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000095.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000096.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000097.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000098.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000099.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000100.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000101.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000102.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000103.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000104.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000105.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000106.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000107.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000108.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000109.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000110.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000111.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000112.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000113.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000114.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000115.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000116.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000117.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000118.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000119.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000120.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000121.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000122.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000123.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000124.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000125.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000126.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000127.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000128.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000129.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000130.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000131.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000132.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000133.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000134.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000135.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000136.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000137.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000138.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000139.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000140.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000141.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000142.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000143.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000144.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    },
+    {
+      "path": "./results/camera_1/crops/track_3/frame_000145.jpg",
+      "camera_id": 1,
+      "local_track_id": "3"
+    }
+  ],
+  "1": [
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000015.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000016.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000017.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000018.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000019.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000020.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000021.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000022.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000023.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000024.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000025.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000026.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000027.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000028.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000029.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000030.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000031.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000032.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000033.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000034.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000035.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000036.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000037.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000038.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000039.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000040.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000041.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000042.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000043.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000044.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000045.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000046.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000047.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000048.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000049.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000050.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000051.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000052.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000053.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000054.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000055.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000056.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000057.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000058.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000059.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000060.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000061.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000062.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000063.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000064.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000065.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000066.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000067.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000068.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000069.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000070.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000071.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000072.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000073.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000074.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000075.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000076.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000077.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000078.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000079.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000080.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000081.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000082.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000083.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000084.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000085.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000086.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000087.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000088.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000089.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000090.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000091.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000092.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000093.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000094.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000095.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000096.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000097.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000098.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000099.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000100.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000101.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000102.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000103.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000104.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000105.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000106.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000107.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000108.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000109.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000110.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000111.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000112.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000113.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000114.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000115.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000116.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000117.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000118.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000119.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000120.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000121.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000122.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000123.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000124.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000125.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000126.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000127.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000128.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000129.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000130.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000131.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000132.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000133.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000134.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000135.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000136.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000137.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000138.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000139.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000140.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000141.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000142.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000143.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000144.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    },
+    {
+      "path": "./results/camera_1/crops/track_5/frame_000145.jpg",
+      "camera_id": 1,
+      "local_track_id": "5"
+    }
+  ],
+  "2": [
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000017.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000018.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000019.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000020.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000021.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000022.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000023.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000024.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000025.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000026.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000027.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000028.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000029.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000030.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000031.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000032.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000033.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000034.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000035.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000036.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000037.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000038.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000039.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000040.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000041.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000042.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000043.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000044.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000045.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000046.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000047.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000048.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000049.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000050.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000051.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000052.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000053.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000054.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000055.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000056.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000057.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000058.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000059.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000060.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000061.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000062.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000063.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000064.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000065.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000066.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000067.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000068.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000069.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000070.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000071.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000072.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000073.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000074.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000075.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000076.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000077.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000078.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000079.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000080.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000081.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000082.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000083.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000084.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000085.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000086.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000087.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000088.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000089.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000090.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000091.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000092.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000093.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000094.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000095.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000096.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000097.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000098.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000099.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000100.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000101.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000102.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000103.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000104.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000105.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000106.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000107.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000108.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000109.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000110.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000111.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000112.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000113.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000114.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000115.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000116.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000117.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000118.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000119.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000120.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000121.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000122.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000123.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000124.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000125.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000126.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000127.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000128.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000129.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000130.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000131.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000132.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000133.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000134.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000135.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000136.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000137.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000138.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000139.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000140.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000141.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000142.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000143.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000144.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    },
+    {
+      "path": "./results/camera_1/crops/track_6/frame_000145.jpg",
+      "camera_id": 1,
+      "local_track_id": "6"
+    }
+  ],
+  "0": [
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000052.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000053.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000054.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000055.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000056.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000057.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000058.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000059.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000060.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000061.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000062.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000063.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000064.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000065.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000066.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000067.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000068.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000069.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000070.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000071.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000072.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000073.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000074.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000075.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000076.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000077.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000078.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000079.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000080.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000081.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000082.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000083.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000084.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000085.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000086.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000087.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000088.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000089.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000090.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000091.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000092.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000093.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000094.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000095.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000096.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000097.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000098.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000099.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000100.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000101.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000102.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000103.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000104.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000105.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000106.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000107.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000108.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000109.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000110.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000111.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    },
+    {
+      "path": "./results/camera_1/crops/track_8/frame_000112.jpg",
+      "camera_id": 1,
+      "local_track_id": "8"
+    }
+  ]
+}
