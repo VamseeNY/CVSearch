@@ -25,11 +25,15 @@ A complete end-end pipeline for detecting, tracking and searching people across 
 - 8GB+ RAM (16GB+ for multiple cameras)
 
 ### Clone repository
-git clone https://github.com/VamseeNY/CVSearch.git 
+```
+git clone https://github.com/VamseeNY/CVSearch.git
+```
 
 ### Install required packages
+```
 cd CVSearch 
-pip install -r requirements.txt
+pip install ultralytics torchreid deep-sort-realtime transformers
+```
 
 ## Quick Start
 ### Data Preparation 
